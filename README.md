@@ -1,1 +1,1 @@
-# Machine-REcommendation-System
+# Movie-REcommendation-System
